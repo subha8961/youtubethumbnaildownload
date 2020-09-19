@@ -1,0 +1,9 @@
+#loading{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #191f26
+    url('https://i.pinimg.com/originals/90/80/60/9080607321ab98fa3e70dd24b2513a20.gif')
+     no-repeat center center;	
+    z-index: 99999;
+  } 
